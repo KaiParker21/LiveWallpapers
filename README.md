@@ -7,16 +7,14 @@ A small collection of clean, interactive live wallpapers built using Android’s
 ### 🕒 Analog Clock
 Smooth sweeping second hand with a minimal black & white design.
 
-<!-- Add clock demo GIF below -->
-<!-- ![Analog Clock Demo](gifs/clock.gif) -->
+![Analog Clock Demo](gifs/clock.gif)
 
 ---
 
 ### ⚪ Gravity Ball
 Accelerometer-based gravity physics with inertia and boundary bounce.
 
-<!-- Add gravity demo GIF below -->
-<!-- ![Gravity Ball Demo](gifs/gravity.gif) -->
+![Gravity Ball Demo](gifs/gravity.gif)
 
 ---
 
