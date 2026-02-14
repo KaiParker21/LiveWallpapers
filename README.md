@@ -2,6 +2,16 @@
 
 A small collection of clean, interactive live wallpapers built using Android’s `WallpaperService` and Canvas rendering.
 
+---
+
+## ⬇ Downloads
+
+Download the latest release from GitHub:
+
+👉 **[Download Latest APK](../../releases/latest)**
+
+---
+
 ## Wallpapers
 
 ### 🕒 Analog Clock
@@ -29,8 +39,9 @@ Accelerometer-based gravity physics with inertia and boundary bounce.
 
 ## Usage
 
-1. Open the app
-2. Select a wallpaper
-3. Set it from the system preview
+1. Install the APK
+2. Open the app
+3. Select a wallpaper
+4. Set it from the system preview
 
 Minimal. Lightweight. AMOLED-friendly.
