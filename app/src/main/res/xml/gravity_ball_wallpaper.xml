@@ -1,0 +1,3 @@
+<wallpaper xmlns:android="http://schemas.android.com/apk/res/android"
+    android:description="@string/gravity_ball_description"
+    android:thumbnail="@mipmap/ic_launcher" />
